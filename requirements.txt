@@ -1,0 +1,8 @@
+# versions verified together on macOS (Apple Silicon), Python 3.14, 2026-10
+librosa==1.0.0
+numpy==2.5.2
+scipy==1.18.1
+soundfile==0.14.0
+soxr==1.1.0
+demucs==4.1.0
+torch==2.13.0

@@ -1,0 +1,16 @@
+.env
+venv/
+models/*.bin
+__pycache__/
+.DS_Store
+# your audio stays on your machine
+inbox/*
+!inbox/.keep
+projects/*
+!projects/.keep
+*.wav
+*.mp3
+*.m4a
+*.aif
+*.aiff
+*.flac
